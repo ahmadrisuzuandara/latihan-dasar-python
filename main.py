@@ -1,0 +1,5 @@
+print(f"Hello My Name is Ahmad")
+print(f"Kemampuan dibidang Marketing, Customer Service, Administrasi")
+print(f"My future project is to become a Data Analyst")
+print(f"Python, SQL, HTML, CSS, Word, Excel, Power Point, Canva, Google Form, Google Sheet")
+print(f"Thank you for your attention")
